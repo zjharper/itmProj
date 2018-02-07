@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ospsy\.android\build-cache\94106ec49a75f1a6f2364e2939a4d09842d45d53\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\Users\ospsy\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_a725f8151575b743e8b0b22636e3e807a6be1759.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ospsy\.android\build-cache\6e9fbb5f51b86481c6acc908e2ff8912b47bcd53\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\ospsy\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_a1d3133c71df8afb1890dc7d2ee7aca5eafe17d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ospsy\.android\build-cache\5b3caeee27626017ccd03f9cb9aeacb091e89192\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\ospsy\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_c407f4b4fe093f8a60276c3b56d01f9f40e8706d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ospsy\.android\build-cache\71849a4b80085000cdfe0f9785cd1c675abcc7f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\ospsy\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_5f7c4e13ce461c72357c907f526cd2d92cc21d12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ospsy\.android\build-cache\bcea605f939d18e42d4dccaa3adb26f754bf7d7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\ospsy\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_fca0726a23e24fcf1c208c0dd212402e99f7056f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\ospsy\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_7c88aee63584960575018a7d0454b660043aaeb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ospsy\.android\build-cache\045c7aff208e921160f2bba630750cb5bc39cb24\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\ospsy\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_450ffa1a6fabc9d1c6ffc28a0c9bcf0b822e8651.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ospsy\.android\build-cache\302724f120cbb27040462649183d7ca0248d3e21\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\ospsy\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_0e0e99622f44231a3d56b97f81d40d1792466293.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ospsy\.android\build-cache\ba894d67aa9a0c7e57a8c87838cbaa628a0d3954\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\ospsy\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_fba4a907e8bb866904058d58f674b0e3323edb4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ospsy\.android\build-cache\b9f7502edf8c0a5fc628e4461eee40cf8dad0810\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\ospsy\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_ebeabac1ef0cbf145496bda69072f067940051cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ospsy\.android\build-cache\6c95224f159d9e916e145ca07b02820e14c58d8f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\ospsy\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_e6c583ccf4964594b8b770102305e90cf37058d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ospsy\.android\build-cache\3e49da3e1035bf07a1c73dae4bf1f92c909e533b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ospsy\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_990b6ca9bd6f320653030efecf4d0f43ce2fab5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ospsy\.android\build-cache\4b07e9a7e234f9fe09291f82bb03cfb4e21fa497\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\ospsy\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_c5701ec0372cdd8885c4c5988a5a8b90e6996fec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ospsy\.android\build-cache\3ece466fa8d214442981784bd2b3ced124051ab8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ada15dd7aad50793dcd67b281a8eb06e80007500">
+        <dex dex="C:\Users\ospsy\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_e7a83202ba0a5e342725cf4c2fe8b48a6b089ac5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ospsy\.android\build-cache\1a4e564edea1321cace31fbced29808f4166da17\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\ospsy\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_0e91ed996be0a72e7a29b9cb40d16336a612d2a1.jar" />
+    </item>
+
+</items>

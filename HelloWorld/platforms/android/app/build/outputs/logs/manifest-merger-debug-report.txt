@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:3:2-39
+		INJECTED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+MERGED from [:nativescript-optimized:] C:\Users\ospsy\.android\build-cache\94106ec49a75f1a6f2364e2939a4d09842d45d53\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\ospsy\.android\build-cache\3ece466fa8d214442981784bd2b3ced124051ab8\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\71849a4b80085000cdfe0f9785cd1c675abcc7f3\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\6e9fbb5f51b86481c6acc908e2ff8912b47bcd53\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\5b3caeee27626017ccd03f9cb9aeacb091e89192\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\1a4e564edea1321cace31fbced29808f4166da17\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\4b07e9a7e234f9fe09291f82bb03cfb4e21fa497\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\bcea605f939d18e42d4dccaa3adb26f754bf7d7f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\3e49da3e1035bf07a1c73dae4bf1f92c909e533b\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\045c7aff208e921160f2bba630750cb5bc39cb24\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\302724f120cbb27040462649183d7ca0248d3e21\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\b9f7502edf8c0a5fc628e4461eee40cf8dad0810\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\ba894d67aa9a0c7e57a8c87838cbaa628a0d3954\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\6c95224f159d9e916e145ca07b02820e14c58d8f\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\71849a4b80085000cdfe0f9785cd1c675abcc7f3\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:15:3-32
+		INJECTED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:14:3-29
+		INJECTED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:19:19-61
+application
+ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:21:2-42:16
+MERGED from [:widgets-release:] C:\Users\ospsy\.android\build-cache\3ece466fa8d214442981784bd2b3ced124051ab8\output\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\71849a4b80085000cdfe0f9785cd1c675abcc7f3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\6e9fbb5f51b86481c6acc908e2ff8912b47bcd53\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\5b3caeee27626017ccd03f9cb9aeacb091e89192\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\1a4e564edea1321cace31fbced29808f4166da17\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\bcea605f939d18e42d4dccaa3adb26f754bf7d7f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\3e49da3e1035bf07a1c73dae4bf1f92c909e533b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\045c7aff208e921160f2bba630750cb5bc39cb24\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\302724f120cbb27040462649183d7ca0248d3e21\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\b9f7502edf8c0a5fc628e4461eee40cf8dad0810\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\ba894d67aa9a0c7e57a8c87838cbaa628a0d3954\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\6c95224f159d9e916e145ca07b02820e14c58d8f\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:25:3-35
+	android:allowBackup
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:23:3-29
+	android:icon
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:24:3-32
+	android:theme
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:30:4-49
+	android:configChanges
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:31:4-65
+	android:theme
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:32:4-44
+	android:name
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:29:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:34:15-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from C:\Users\ospsy\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:41:13-55
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\71849a4b80085000cdfe0f9785cd1c675abcc7f3\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\6e9fbb5f51b86481c6acc908e2ff8912b47bcd53\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\5b3caeee27626017ccd03f9cb9aeacb091e89192\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\1a4e564edea1321cace31fbced29808f4166da17\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\4b07e9a7e234f9fe09291f82bb03cfb4e21fa497\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\bcea605f939d18e42d4dccaa3adb26f754bf7d7f\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\3e49da3e1035bf07a1c73dae4bf1f92c909e533b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\045c7aff208e921160f2bba630750cb5bc39cb24\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\302724f120cbb27040462649183d7ca0248d3e21\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\b9f7502edf8c0a5fc628e4461eee40cf8dad0810\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\ba894d67aa9a0c7e57a8c87838cbaa628a0d3954\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\6c95224f159d9e916e145ca07b02820e14c58d8f\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\71849a4b80085000cdfe0f9785cd1c675abcc7f3\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\ospsy\.android\build-cache\71849a4b80085000cdfe0f9785cd1c675abcc7f3\output\AndroidManifest.xml:26:9-47

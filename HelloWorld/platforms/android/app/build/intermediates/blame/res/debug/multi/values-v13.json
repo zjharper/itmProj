@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\ospsy\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\ospsy\\.android\\build-cache\\6e9fbb5f51b86481c6acc908e2ff8912b47bcd53\\output\\res\\values-v13\\values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]

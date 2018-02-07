@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\ospsy\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\ospsy\\.android\\build-cache\\71849a4b80085000cdfe0f9785cd1c675abcc7f3\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\ospsy\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\ospsy\\.android\\build-cache\\71849a4b80085000cdfe0f9785cd1c675abcc7f3\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\ospsy\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\ospsy\\.android\\build-cache\\71849a4b80085000cdfe0f9785cd1c675abcc7f3\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ospsy\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\ospsy\\.android\\build-cache\\71849a4b80085000cdfe0f9785cd1c675abcc7f3\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]

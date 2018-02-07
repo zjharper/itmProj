@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\ospsy\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "C:\\Users\\ospsy\\.android\\build-cache\\6e9fbb5f51b86481c6acc908e2ff8912b47bcd53\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    }
+]
